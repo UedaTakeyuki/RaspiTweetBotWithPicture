@@ -1,0 +1,1 @@
+/usr/bin/php /usr/share/nginx/www/140617/tweet.php
